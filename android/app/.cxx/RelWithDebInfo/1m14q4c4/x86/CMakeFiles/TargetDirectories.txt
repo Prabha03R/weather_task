@@ -1,0 +1,2 @@
+/Users/digistatsolutions/StudioProjects/weatherapp/android/app/.cxx/RelWithDebInfo/1m14q4c4/x86/CMakeFiles/edit_cache.dir
+/Users/digistatsolutions/StudioProjects/weatherapp/android/app/.cxx/RelWithDebInfo/1m14q4c4/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/digistatsolutions/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/digistatsolutions/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/digistatsolutions/StudioProjects/weatherapp/android/app/.cxx/Debug/3y164r1h/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/digistatsolutions/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/digistatsolutions/StudioProjects/weatherapp/android/app/.cxx/Debug/3y164r1h/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

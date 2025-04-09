@@ -1,0 +1,1 @@
+/Users/digistatsolutions/StudioProjects/weatherapp/build/app/intermediates/cxx/Debug/3y164r1h/obj/arm64-v8a
